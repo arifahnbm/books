@@ -26,3 +26,11 @@ Kode tersebut adalah fungsi asinkron dalam bahasa Dart yang menghitung total nil
 
 Hasil:
 ![alt text](image-2.png)
+
+SOAL 5
+Jelaskan maksud kode langkah 2!
+Jawab :
+Kode pada langkah 2 bertujuan untuk membuat Future secara manual menggunakan Completer. Menunda hasil dengan menunggu selama 5 detik. Dan menyelesaikan Future dengan nilai 42 menggunakan completer.complete.
+
+Hasil :
+![alt text](image-3.png)
