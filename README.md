@@ -34,3 +34,15 @@ Kode pada langkah 2 bertujuan untuk membuat Future secara manual menggunakan Com
 
 Hasil :
 ![alt text](image-3.png)
+
+SOAL 6
+Jelaskan maksud perbedaan kode langkah 5-6!
+Jawab :
+Langkah 5 :
+Kode tersebut adalah fungsi asinkron bernama calculate, yang menggunakan blok try-catch untuk menangani kemungkinan kesalahan saat menjalankan operasi asinkron.
+
+Langkah 6 :
+Kode tersebut adalah contoh penggunaan Future, yang memanfaatkan metode then dan catchError untuk menangani hasil sukses atau error dari operasi asinkron. 
+
+Hasil :
+![alt text](image-4.png)
