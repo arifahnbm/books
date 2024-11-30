@@ -54,3 +54,8 @@ SOAL 8
 FutureGroup: Cocok untuk menambahkan future secara dinamis saat runtime. Memerlukan kontrol eksplisit dengan memanggil close(). Lebih kompleks dan membutuhkan pustaka eksternal.
 
 Future.wait: Cocok untuk daftar future statis yang sudah diketahui. Simpel, bawaan Dart, dan langsung mengembalikan hasil ketika semua selesai.
+
+SOAL 9
+![alt text](image-6.png)
+![alt text](image-7.png)
+
