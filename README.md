@@ -59,3 +59,7 @@ SOAL 9
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 
+SOAL 10
+![alt text](image-8.png)
+returnError hanya memunculkan kesalahan tanpa menangani apa pun. Sedangkan handleError bertanggung jawab menangkap dan menangani kesalahan dari returnError, mengubah state, dan menjalankan tugas akhir menggunakan blok finally.
+
