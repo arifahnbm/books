@@ -46,3 +46,7 @@ Kode tersebut adalah contoh penggunaan Future, yang memanfaatkan metode then dan
 
 Hasil :
 ![alt text](image-4.png)
+
+SOAL 7
+![alt text](image-5.png)
+
